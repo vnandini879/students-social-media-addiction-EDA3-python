@@ -1,5 +1,3 @@
-# students-social-media-addiction-eda-python
-
 # Student Social Media Addiction Analysis: A Global EDA Perspective
 
 ## Project Overview
